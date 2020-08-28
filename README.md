@@ -83,6 +83,5 @@ are the most frequently used. However, we've seen many inventive uses of
 
 ## Resources
 - [HTML Forms and Iframes](https://www.youtube.com/embed/eiCtXc2YMKc?rel=0)
-- [Presentation Slides](https://docs.google.com/presentation/d/115ECvsMyDnFBcc-Rvb4Jn876JhOycXxKVN6sv7OiJ1Y/edit?usp=sharing)
 - [MDN - HTML - Iframe](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe)
 - [Google Maps iframe documentation](https://developers.google.com/maps/documentation/embed/guide)
